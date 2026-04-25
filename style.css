@@ -658,6 +658,7 @@ footer {
     nav .nav_logo a img,
     .footer_section .footer_logo a img {
         max-width: 45px;
+        border-radius: 5px;
     }
 
     nav .nav_logo h2 {
